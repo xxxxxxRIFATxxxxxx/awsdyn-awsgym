@@ -4,17 +4,99 @@
 @tailwind utilities;
 
 /* Common CSS */
+
+/* Google Font */
+@import url("https://fonts.googleapis.com/css2?family=Heebo&display=swap");
+
 :root {
+    --primary: #da2348;
+    --white: #fdfdfd;
+    --black: #100000;
+    --silver: #d7d7d7;
 }
 
 html,
 body {
     padding: 0;
     margin: 0;
-    scroll-behavior: smooth !important;
+    scroll-behavior: smooth;
+    font-family: "Heebo", sans-serif;
 }
 
 * {
     padding: 0;
     margin: 0;
+}
+
+.darken-box {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+@layer components {
+    .primaryHover {
+    }
+
+    .primary-btn {
+        @apply py-2 md:py-3 px-5 text-sm font-medium text-white focus:outline-none bg-primary rounded-lg border border-primary hover:bg-primaryHover focus:ring-2 focus:z-10  focus:ring-primaryHover;
+    }
+
+    .secondary-btn {
+        @apply py-2 md:py-3 px-5 text-sm font-medium text-white focus:outline-none bg-transparent rounded-lg border border-white hover:bg-white focus:ring-2 hover:text-primary focus:z-10  focus:ring-gray-300;
+    }
+
+    .heading-1 {
+        @apply text-xl md:text-5xl font-semibold;
+    }
+
+    .normal-white-text {
+        @apply text-customWhite text-xs md:text-sm;
+    }
+}
+
+/* Header Section */
+.header-section {
+}
+
+/* Hero Section */
+.hero-section {
+    background-image: url("/images/hero-section-bg.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/* Feature Section */
+.feature-section {
+}
+
+/* Team Section */
+.team-section {
+}
+
+/* About Section */
+.about-section {
+}
+
+/* Banner Section */
+.banner-section {
+}
+
+/* Product Section */
+.product-section {
+}
+
+/* Blog Section */
+.blog-section {
+}
+
+/* Testimonial Section */
+.testimonial-section {
+}
+
+/* Faq Section */
+.faq-section {
+}
+
+/* Footer Section */
+.footer-section {
 }
