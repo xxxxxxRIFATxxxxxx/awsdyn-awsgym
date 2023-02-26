@@ -98,6 +98,17 @@ body {
     background-size: cover;
 }
 
+.feature-card {
+    background-image: url("/images/feature-card-img-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.feature-card-text {
+    clip-path: polygon(17% 38%, 100% 73%, 100% 100%, 0% 100%);
+}
+
 /* Team Section */
 .team-section {
 }

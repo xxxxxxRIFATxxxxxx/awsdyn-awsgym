@@ -1,3 +1,4 @@
+import FeatureSection from "../components/Home/FeatureSection";
 import HeroSection from "../components/Home/HeroSection";
 import Meta from "../components/Meta/Meta";
 
@@ -7,6 +8,7 @@ export default function Home() {
             <Meta title="AwsGym" keywords="AwsGym" description="AwsGym" />
 
             <HeroSection />
+            <FeatureSection />
         </>
     );
 }
