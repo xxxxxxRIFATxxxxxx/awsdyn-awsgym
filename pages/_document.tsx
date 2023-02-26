@@ -4,19 +4,8 @@ export default function Document() {
     return (
         <Html>
             <Head>
-                {/* Google Font */}
-                <link rel="preconnect" href="https://fonts.googleapis.com" />
-                <link rel="preconnect" href="https://fonts.gstatic.com" />
-                <link
-                    href="https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap"
-                    rel="stylesheet"
-                ></link>
-
                 {/* Favicon */}
-                <link
-                    rel="icon"
-                    href="https://moonlit-snickerdoodle-f90af8.netlify.app/images//logo.svg"
-                />
+                <link rel="icon" href="" />
 
                 {/* Font Awesome */}
                 <script
@@ -24,6 +13,7 @@ export default function Document() {
                     crossOrigin="anonymous"
                 ></script>
             </Head>
+
             <body>
                 <Main />
                 <NextScript />
