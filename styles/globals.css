@@ -105,8 +105,8 @@ body {
     background-size: cover;
 }
 
-.feature-card-text {
-    clip-path: polygon(17% 38%, 100% 73%, 100% 100%, 0% 100%);
+.feature-card-text-container {
+    outline: rgba(253, 253, 253, 0.5);
 }
 
 /* Team Section */
