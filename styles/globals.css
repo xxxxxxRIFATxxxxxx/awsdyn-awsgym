@@ -102,7 +102,7 @@ body {
     background-size: cover;
 }
 
-.feature-card {
+/* .feature-card {
     background-image: url("/images/feature-card-img-1.png");
     background-repeat: no-repeat;
     background-position: center;
@@ -111,6 +111,22 @@ body {
 
 .feature-card-text-container {
     outline: rgba(253, 253, 253, 0.5);
+} */
+
+.feature-card-svg-container {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    padding-bottom: 100%;
+    vertical-align: middle;
+    overflow: hidden;
+}
+
+.feature-card-svg-content {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 
 /* Team Section */
