@@ -20,13 +20,13 @@ const FeatureSection = () => {
                         style={{ width: "391px", height: "546px" }}
                     >
                         <img
-                            className="absolute left-0 top-0 rounded-2xl overflow-hidden"
+                            className="absolute left-0 top-0 custom-rounded overflow-hidden"
                             style={{ width: "390px", height: "542px" }}
                             src="/images/feature-card-img-1.png"
                         />
 
                         <div
-                            className="relative bg-white rounded-2xl overflow-hidden"
+                            className="relative bg-white custom-rounded overflow-hidden"
                             style={{
                                 width: "100%",
                                 height: "250px",
@@ -71,13 +71,13 @@ const FeatureSection = () => {
                         style={{ width: "100%" }}
                     >
                         <img
-                            className="absolute left-0 top-0 rounded-2xl overflow-hidden h-[300px] lg:h-[542px]"
+                            className="absolute left-0 top-0 custom-rounded overflow-hidden h-[300px] lg:h-[542px]"
                             style={{ width: "100%" }}
                             src="/images/feature-card-img-1.png"
                         />
 
                         <div
-                            className="relative bg-white rounded-2xl overflow-hidden top-[150px] lg:top-[350px] h-[200px] lg:h-[250px]"
+                            className="relative bg-white custom-rounded overflow-hidden top-[150px] lg:top-[350px] h-[200px] lg:h-[250px]"
                             style={{
                                 width: "100%",
                                 transform: "rotate(18deg)",

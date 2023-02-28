@@ -3,9 +3,9 @@ import Link from "next/link";
 const TeamSection = () => {
     return (
         <div className="team-section custom-container">
-            <h1 className="text-primary heading-2 text-center pb-5">
+            <h2 className="text-primary heading-2 text-center pb-5">
                 Team Expert Coaches
-            </h1>
+            </h2>
 
             <p className="normal-text text-center pb-5 md:pb-10">
                 BlueLight Health Envisions a World Where Living a Healthy
@@ -14,7 +14,7 @@ const TeamSection = () => {
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-                <div className="team-card relative overflow-hidden rounded-2xl shadow-lg">
+                <div className="team-card relative overflow-hidden custom-rounded">
                     <img
                         className="object-cover w-full"
                         src="/images/team-1.png"
@@ -68,7 +68,7 @@ const TeamSection = () => {
                     </div>
                 </div>
 
-                <div className="team-card relative overflow-hidden rounded-2xl shadow-lg">
+                <div className="team-card relative overflow-hidden custom-rounded">
                     <img
                         className="object-cover w-full"
                         src="/images/team-2.png"
@@ -122,7 +122,7 @@ const TeamSection = () => {
                     </div>
                 </div>
 
-                <div className="team-card relative overflow-hidden rounded-2xl shadow-lg">
+                <div className="team-card relative overflow-hidden custom-rounded">
                     <img
                         className="object-cover w-full"
                         src="/images/team-3.png"
