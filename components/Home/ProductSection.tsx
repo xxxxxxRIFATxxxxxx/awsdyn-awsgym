@@ -10,7 +10,7 @@ const ProductSection = () => {
 
                 <p className="normal-text text-center pb-5 md:pb-10">
                     Gymat an unknown printer took a galley of type and scrambled{" "}
-                    <br />
+                    <br className="hidden md:block" />
                     make a type specimen book.
                 </p>
 

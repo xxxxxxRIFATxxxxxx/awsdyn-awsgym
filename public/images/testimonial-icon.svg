@@ -1,0 +1,15 @@
+ <svg
+    className="w-14 mx-auto"
+    viewBox="0 0 61 64"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+>
+    <path
+        d="M0.5 64V0H27.0974V34.6667L0.5 64Z"
+        fill="#E5E7EB"
+    />
+    <path
+        d="M34.0977 64V0H60.6951V34.6667L34.0977 64Z"
+        fill="#E5E7EB"
+    />
+</svg>

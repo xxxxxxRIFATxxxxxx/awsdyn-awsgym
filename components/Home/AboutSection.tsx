@@ -14,11 +14,11 @@ const AboutSection = () => {
                     </div>
 
                     <div className="flex flex-col justify-center">
-                        <h2 className="text-primary heading-2 pb-5">
+                        <h2 className="text-primary heading-2 pb-5 text-center md:text-start">
                             About us
                         </h2>
 
-                        <p className="normal-text pb-5 w-full text-justify lg:w-3/5">
+                        <p className="normal-text pb-5 w-full text-center md:text-justify lg:w-3/5">
                             we are passionate about helping people transform
                             their bodies and minds through fitness. our vision
                             is to create a welcoming and supportive environment
@@ -26,15 +26,17 @@ const AboutSection = () => {
                             matter their starting point.
                         </p>
 
-                        <p className="normal-text pb-5 w-full text-justify lg:w-3/5">
+                        <p className="normal-text pb-5 w-full text-center md:text-justify lg:w-3/5">
                             That's why we have gathered a team of expert
                             trainers and invested in top-of-the-line equipment
                             and facilities.
                         </p>
 
-                        <button className="primary-btn w-fit">
-                            Read Details
-                        </button>
+                        <div className="text-center md:text-start">
+                            <button className="primary-btn w-fit">
+                                Read Details
+                            </button>
+                        </div>
                     </div>
                 </div>
             </div>

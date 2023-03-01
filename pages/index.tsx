@@ -4,6 +4,7 @@ import BlogSection from "../components/Home/BlogSection";
 import FaqSection from "../components/Home/FaqSection";
 import FeatureSection from "../components/Home/FeatureSection";
 import HeroSection from "../components/Home/HeroSection";
+import PricingSection from "../components/Home/PricingSection";
 import ProductSection from "../components/Home/ProductSection";
 import TeamSection from "../components/Home/TeamSection";
 import TestimonialSection from "../components/Home/TestimonialSection";
@@ -22,6 +23,7 @@ export default function Home() {
             <ProductSection />
             <BlogSection />
             <TestimonialSection />
+            <PricingSection />
             <FaqSection />
         </>
     );
