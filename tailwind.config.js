@@ -13,6 +13,7 @@ module.exports = {
                 primaryHover: "rgba(249, 35, 72, 1)",
                 customWhite: "#fdfdfd",
                 customBlack: "#100000",
+                customBlack2: "#231401",
                 customSilver: "#d7d7d7",
             },
         },

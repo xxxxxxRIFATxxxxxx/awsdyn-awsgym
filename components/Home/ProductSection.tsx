@@ -14,7 +14,7 @@ const ProductSection = () => {
                     make a type specimen book.
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 pb-5 md:pb-10">
                     <div className="product-card custom-rounded border border-gray-400 p-4">
                         <div>
                             <div className="pb-4 relative">
@@ -178,6 +178,10 @@ const ProductSection = () => {
                             </button>
                         </div>
                     </div>
+                </div>
+
+                <div className="text-center">
+                    <button className="primary-btn">View All Product</button>
                 </div>
             </div>
         </div>
