@@ -1,9 +1,10 @@
 import Link from "next/link";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 const Header = () => {
     const [active, setActive] = useState("Home");
     const [showNav, setShowNav] = useState(false);
+    const [stickyClass, setStickyClass] = useState("relative");
 
     const handleActive = (name: string) => {
         setActive(name);
@@ -16,8 +17,29 @@ const Header = () => {
         });
     };
 
+    const stickNavbar = () => {
+        if (window !== undefined) {
+            let windowHeight = window.scrollY;
+            windowHeight > 50
+                ? setStickyClass(
+                      "fixed top-0 left-0 z-50 w-full px-10 md:px-20 lg:px-40 py-2 text-black nav-sticky-bg"
+                  )
+                : setStickyClass("relative");
+        }
+    };
+
+    useEffect(() => {
+        window.addEventListener("scroll", stickNavbar);
+
+        return () => {
+            window.removeEventListener("scroll", stickNavbar);
+        };
+    }, []);
+
     return (
-        <div className="header-section">
+        <div
+            className={`header-section transition-all duration-500 ease-in-out ${stickyClass}`}
+        >
             <nav className="bg-transparent">
                 <div className="flex flex-wrap items-center justify-between mx-auto">
                     <Link href="/" className="flex items-center">

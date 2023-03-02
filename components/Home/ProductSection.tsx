@@ -2,7 +2,7 @@ import React from "react";
 
 const ProductSection = () => {
     return (
-        <div className="product-section">
+        <div className="product-section" id="product-section">
             <div className="custom-container">
                 <h2 className="text-primary heading-2 text-center pb-5">
                     Buy Gym Equipment

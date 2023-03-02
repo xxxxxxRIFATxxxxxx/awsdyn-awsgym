@@ -1,6 +1,10 @@
-import React from "react";
+import React, { useEffect, useRef } from "react";
 
 const TestimonialSection = () => {
+    const featureCard2Ref = useRef<HTMLInputElement>(null);
+
+    useEffect(() => {});
+
     return (
         <div className="testimonial-section">
             <div className="custom-container">
@@ -54,7 +58,10 @@ const TestimonialSection = () => {
                             />
                         </div>
 
-                        <div className="testimonial-card relative right-0 hover:right-10 transition-all duration-700 ease-in-out custom-rounded cursor-pointer border border-l-[28px] border-l-gray hover:border-l-primary flex flex-col md:flex-row items-center justify-center md:justify-between p-5 mb-5">
+                        <div
+                            ref={featureCard2Ref}
+                            className="testimonial-card relative right-0 hover:right-10 transition-all duration-700 ease-in-out custom-rounded cursor-pointer border border-l-[28px] border-l-gray hover:border-l-primary flex flex-col md:flex-row items-center justify-center md:justify-between p-5 mb-5"
+                        >
                             <div className="mr-5">
                                 <img
                                     className="w-full md:w-40 mx-auto pb-5 md:pb-0"

@@ -95,6 +95,10 @@ body {
 .header-section {
 }
 
+.nav-sticky-bg {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
 /* Hero Section */
 .hero-section {
     background-image: url("/images/hero-section-bg.svg");
@@ -109,6 +113,26 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+}
+
+.feature-card:hover .feature-card-text {
+    height: 14rem;
+}
+
+.feature-card-text {
+    outline: 10px solid rgba(253, 253, 253, 0.5);
+    height: 9.5rem;
+    transition: 1s ease-in-out;
+    bottom: -4rem;
+    transform: rotate(-10deg);
+}
+
+.feature-card-text-box {
+    transform: rotate(25deg);
+}
+
+.rotate-back {
+    transform: rotate(-15deg);
 }
 
 /* Team Section */

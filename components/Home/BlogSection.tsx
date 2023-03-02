@@ -2,7 +2,7 @@ import React from "react";
 
 const BlogSection = () => {
     return (
-        <div className="blog-section">
+        <div className="blog-section" id="blog-section">
             <div className="custom-container">
                 <h2 className="text-primary heading-2 text-center pb-5">
                     Blogs and Updates
