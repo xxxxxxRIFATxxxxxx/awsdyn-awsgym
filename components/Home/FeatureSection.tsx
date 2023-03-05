@@ -30,7 +30,7 @@ const FeatureSection = () => {
                         <div className="feature-card-text-box relative">
                             <div className="bg-white w-full absolute left-0 right-0 py-5 overflow-hidden custom-rounded feature-card-text">
                                 <img
-                                    className="w-14 h-12 pb-2 absolute top-2 lg:top-7 left-2 lg:left-4 rotate-back"
+                                    className="w-14 h-12 pb-2 absolute top-2 lg:top-1 xl:top-2 2xl:top-7 left-2 lg:left-4 rotate-back"
                                     src="/images/body-icon.svg"
                                     alt="image"
                                 />
@@ -43,7 +43,7 @@ const FeatureSection = () => {
                                     Perfect features for fitness & gym...
                                 </p>
 
-                                <button className="primary-btn rotate-back w-[62%] md:w-[67%] lg:w-[80%] ml-10">
+                                <button className="primary-btn rotate-back w-[62%] md:w-[67%] lg:w-[67%] xl:w-[70%] 2xl:w-[80%] ml-10">
                                     View Details
                                 </button>
                             </div>
@@ -60,7 +60,7 @@ const FeatureSection = () => {
                         <div className="feature-card-text-box relative">
                             <div className="bg-white w-full absolute left-0 right-0 py-5 overflow-hidden custom-rounded feature-card-text">
                                 <img
-                                    className="w-14 h-12 pb-2 absolute top-2 lg:top-7 left-2 lg:left-4 rotate-back"
+                                    className="w-14 h-12 pb-2 absolute top-2 lg:top-1 xl:top-2 2xl:top-7 left-2 lg:left-4 rotate-back"
                                     src="/images/body-icon.svg"
                                     alt="image"
                                 />
@@ -73,7 +73,7 @@ const FeatureSection = () => {
                                     Perfect features for fitness & gym...
                                 </p>
 
-                                <button className="primary-btn rotate-back w-[62%] md:w-[67%] lg:w-[80%] ml-10">
+                                <button className="primary-btn rotate-back w-[62%] md:w-[67%] lg:w-[67%] xl:w-[70%] 2xl:w-[80%] ml-10">
                                     View Details
                                 </button>
                             </div>
@@ -90,7 +90,7 @@ const FeatureSection = () => {
                         <div className="feature-card-text-box relative">
                             <div className="bg-white w-full absolute left-0 right-0 py-5 overflow-hidden custom-rounded feature-card-text">
                                 <img
-                                    className="w-14 h-12 pb-2 absolute top-2 lg:top-7 left-2 lg:left-4 rotate-back"
+                                    className="w-14 h-12 pb-2 absolute top-2 lg:top-1 xl:top-2 2xl:top-7 left-2 lg:left-4 rotate-back"
                                     src="/images/body-icon.svg"
                                     alt="image"
                                 />
@@ -103,7 +103,7 @@ const FeatureSection = () => {
                                     Perfect features for fitness & gym...
                                 </p>
 
-                                <button className="primary-btn rotate-back w-[62%] md:w-[67%] lg:w-[80%] ml-10">
+                                <button className="primary-btn rotate-back w-[62%] md:w-[67%] lg:w-[67%] xl:w-[70%] 2xl:w-[80%] ml-10">
                                     View Details
                                 </button>
                             </div>
@@ -120,7 +120,7 @@ const FeatureSection = () => {
                         <div className="feature-card-text-box relative">
                             <div className="bg-white w-full absolute left-0 right-0 py-5 overflow-hidden custom-rounded feature-card-text">
                                 <img
-                                    className="w-14 h-12 pb-2 absolute top-2 lg:top-7 left-2 lg:left-4 rotate-back"
+                                    className="w-14 h-12 pb-2 absolute top-2 lg:top-1 xl:top-2 2xl:top-7 left-2 lg:left-4 rotate-back"
                                     src="/images/body-icon.svg"
                                     alt="image"
                                 />
@@ -133,7 +133,7 @@ const FeatureSection = () => {
                                     Perfect features for fitness & gym...
                                 </p>
 
-                                <button className="primary-btn rotate-back w-[62%] md:w-[67%] lg:w-[80%] ml-10">
+                                <button className="primary-btn rotate-back w-[62%] md:w-[67%] lg:w-[67%] xl:w-[70%] 2xl:w-[80%] ml-10">
                                     View Details
                                 </button>
                             </div>
@@ -150,7 +150,7 @@ const FeatureSection = () => {
                         <div className="feature-card-text-box relative">
                             <div className="bg-white w-full absolute left-0 right-0 py-5 overflow-hidden custom-rounded feature-card-text">
                                 <img
-                                    className="w-14 h-12 pb-2 absolute top-2 lg:top-7 left-2 lg:left-4 rotate-back"
+                                    className="w-14 h-12 pb-2 absolute top-2 lg:top-1 xl:top-2 2xl:top-7 left-2 lg:left-4 rotate-back"
                                     src="/images/body-icon.svg"
                                     alt="image"
                                 />
@@ -163,7 +163,7 @@ const FeatureSection = () => {
                                     Perfect features for fitness & gym...
                                 </p>
 
-                                <button className="primary-btn rotate-back w-[62%] md:w-[67%] lg:w-[80%] ml-10">
+                                <button className="primary-btn rotate-back w-[62%] md:w-[67%] lg:w-[67%] xl:w-[70%] 2xl:w-[80%] ml-10">
                                     View Details
                                 </button>
                             </div>
@@ -180,7 +180,7 @@ const FeatureSection = () => {
                         <div className="feature-card-text-box relative">
                             <div className="bg-white w-full absolute left-0 right-0 py-5 overflow-hidden custom-rounded feature-card-text">
                                 <img
-                                    className="w-14 h-12 pb-2 absolute top-2 lg:top-7 left-2 lg:left-4 rotate-back"
+                                    className="w-14 h-12 pb-2 absolute top-2 lg:top-1 xl:top-2 2xl:top-7 left-2 lg:left-4 rotate-back"
                                     src="/images/body-icon.svg"
                                     alt="image"
                                 />
@@ -193,7 +193,7 @@ const FeatureSection = () => {
                                     Perfect features for fitness & gym...
                                 </p>
 
-                                <button className="primary-btn rotate-back w-[62%] md:w-[67%] lg:w-[80%] ml-10">
+                                <button className="primary-btn rotate-back w-[62%] md:w-[67%] lg:w-[67%] xl:w-[70%] 2xl:w-[80%] ml-10">
                                     View Details
                                 </button>
                             </div>
