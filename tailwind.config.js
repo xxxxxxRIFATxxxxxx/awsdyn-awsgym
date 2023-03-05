@@ -10,11 +10,14 @@ module.exports = {
         extend: {
             colors: {
                 primary: "#da2348",
+                secondary: "#EC9412",
+                secondaryHover: "#f5a42c",
                 primaryHover: "rgba(249, 35, 72, 1)",
                 customWhite: "#fdfdfd",
                 customBlack: "#100000",
                 customBlack2: "#231401",
                 customSilver: "#d7d7d7",
+                customSilver2: "#DCDFE6",
             },
         },
     },

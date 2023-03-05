@@ -8,6 +8,7 @@ import PricingSection from "../components/Home/PricingSection";
 import ProductSection from "../components/Home/ProductSection";
 import TeamSection from "../components/Home/TeamSection";
 import TestimonialSection from "../components/Home/TestimonialSection";
+import Footer from "../components/Layout/Footer";
 import Meta from "../components/Meta/Meta";
 
 export default function Home() {
@@ -25,6 +26,7 @@ export default function Home() {
             <TestimonialSection />
             <PricingSection />
             <FaqSection />
+            <Footer />
         </>
     );
 }

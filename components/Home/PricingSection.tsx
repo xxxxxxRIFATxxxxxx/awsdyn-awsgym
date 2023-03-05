@@ -1,5 +1,3 @@
-import React from "react";
-
 const PricingSection = () => {
     return (
         <div className="pricing-section">
@@ -140,7 +138,7 @@ const PricingSection = () => {
                         </div>
                     </div>
 
-                    <div className="pricing-card border custom-rounded p-7 cursor-pointer">
+                    <div className="pricing-card pricing-card-active border custom-rounded p-7 cursor-pointer">
                         <h4 className="pricing-card-title text-2xl font-semibold pb-5 text-center md:text-start">
                             Advance Plan
                         </h4>

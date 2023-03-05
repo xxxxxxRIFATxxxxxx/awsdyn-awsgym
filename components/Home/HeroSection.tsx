@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 import Header from "../Layout/Header";
 
@@ -8,7 +9,12 @@ const HeroSection = () => {
                 <Header />
             </div>
 
-            <div className="darken-box h-screen absolute top-0 left-0 w-full block md:hidden"></div>
+            <Link
+                href="signup"
+                className="primary-btn fixed bottom-40 right-10 md:right-20 lg:right-40 z-20"
+            >
+                Register Today
+            </Link>
 
             <div className="flex items-center h-screen lg:h-[85vh]">
                 <div className="custom-container">
@@ -26,13 +32,21 @@ const HeroSection = () => {
                     </p>
 
                     <div className="pb-5 text-center md:text-start">
-                        <button type="button" className="primary-btn mr-3">
+                        <Link
+                            href="/signup"
+                            type="button"
+                            className="primary-btn mr-3"
+                        >
                             Join Fitness
-                        </button>
+                        </Link>
 
-                        <button type="button" className="secondary-btn">
+                        <Link
+                            href="/#product-section"
+                            type="button"
+                            className="secondary-btn"
+                        >
                             Buy Gym Item
-                        </button>
+                        </Link>
                     </div>
 
                     <div className="flex item-center justify-center md:justify-start">
