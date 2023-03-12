@@ -126,7 +126,7 @@ body {
 .feature-card-text {
     outline: 10px solid rgba(253, 253, 253, 0.5);
     height: 9.5rem;
-    transition: 1s ease-in-out;
+    transition: 0.5s ease-in-out;
     bottom: -4rem;
     transform: rotate(-10deg);
 }
