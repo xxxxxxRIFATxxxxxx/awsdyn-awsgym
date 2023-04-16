@@ -11,7 +11,7 @@ const HeroSection = () => {
 
             <Link
                 href="signup"
-                className="primary-btn fixed bottom-40 right-10 md:right-20 lg:right-40 z-20"
+                className="primary-btn fixed bottom-40 right-10 md:right-20 lg:right-40 z-50"
             >
                 Register Today
             </Link>

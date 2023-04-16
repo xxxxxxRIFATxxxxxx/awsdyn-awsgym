@@ -19,7 +19,7 @@ const BlogSection = () => {
                         <div className="relative">
                             <img
                                 className="w-full"
-                                src="/images/blog-img-1.png"
+                                src="/images/blog-img-1.jpg"
                                 alt="image"
                             />
 
@@ -45,7 +45,7 @@ const BlogSection = () => {
                         <div className="relative">
                             <img
                                 className="w-full"
-                                src="/images/blog-img-2.png"
+                                src="/images/blog-img-2.jpg"
                                 alt="image"
                             />
 
@@ -71,7 +71,7 @@ const BlogSection = () => {
                         <div className="relative">
                             <img
                                 className="w-full"
-                                src="/images/blog-img-3.png"
+                                src="/images/blog-img-3.jpg"
                                 alt="image"
                             />
 

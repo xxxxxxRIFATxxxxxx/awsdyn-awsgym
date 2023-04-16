@@ -20,7 +20,7 @@ const ProductSection = () => {
                             <div className="pb-4 relative">
                                 <img
                                     className="w-full custom-rounded"
-                                    src="/images/product-1.png"
+                                    src="/images/product-1.jpg"
                                     alt="image"
                                 />
 
@@ -61,7 +61,7 @@ const ProductSection = () => {
                             <div className="pb-4 relative">
                                 <img
                                     className="w-full custom-rounded"
-                                    src="/images/product-2.png"
+                                    src="/images/product-2.jpg"
                                     alt="image"
                                 />
 
@@ -102,7 +102,7 @@ const ProductSection = () => {
                             <div className="pb-4 relative">
                                 <img
                                     className="w-full custom-rounded"
-                                    src="/images/product-1.png"
+                                    src="/images/product-1.jpg"
                                     alt="image"
                                 />
 
@@ -143,7 +143,7 @@ const ProductSection = () => {
                             <div className="pb-4 relative">
                                 <img
                                     className="w-full custom-rounded"
-                                    src="/images/product-2.png"
+                                    src="/images/product-2.jpg"
                                     alt="image"
                                 />
 

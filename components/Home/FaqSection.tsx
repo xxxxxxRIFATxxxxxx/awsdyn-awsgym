@@ -24,7 +24,7 @@ const FaqItem = ({
                         show
                             ? "bg-primary text-white"
                             : "bg-white text-gray-500"
-                    } flex items-center justify-between w-full p-5 font-medium text-left custom-rounded shadow transition-all duration-500 ease-in-out relative z-20`}
+                    } flex items-center justify-between w-full p-5 font-medium text-left custom-rounded shadow transition-all duration-500 ease-in-out relative z-10`}
                     data-accordion-target="#accordion-collapse-body-1"
                     aria-expanded="true"
                     aria-controls="accordion-collapse-body-1"

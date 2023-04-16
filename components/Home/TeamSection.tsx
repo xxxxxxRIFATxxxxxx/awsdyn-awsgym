@@ -17,7 +17,7 @@ const TeamSection = () => {
                 <div className="team-card relative overflow-hidden custom-rounded">
                     <img
                         className="object-cover w-full"
-                        src="/images/team-1.png"
+                        src="/images/team-1.jpg"
                         alt="image"
                     />
 
@@ -71,7 +71,7 @@ const TeamSection = () => {
                 <div className="team-card relative overflow-hidden custom-rounded">
                     <img
                         className="object-cover w-full"
-                        src="/images/team-2.png"
+                        src="/images/team-2.jpg"
                         alt="image"
                     />
 
@@ -125,7 +125,7 @@ const TeamSection = () => {
                 <div className="team-card relative overflow-hidden custom-rounded">
                     <img
                         className="object-cover w-full"
-                        src="/images/team-3.png"
+                        src="/images/team-3.jpg"
                         alt="image"
                     />
 

@@ -23,7 +23,7 @@ const Dashboard = () => {
                     <div className="relative">
                         <img
                             className="w-14"
-                            src="/images/profile-picture-small.png"
+                            src="/images/profile-picture-small.jpg"
                             alt="image"
                         />
 
@@ -172,7 +172,7 @@ const Dashboard = () => {
                     <div className="mr-0 md:mr-16 mb-4 md:mb-0">
                         <img
                             className="w-[30rem] custom-rounded"
-                            src="/images/profile-picture.png"
+                            src="/images/profile-picture.jpg"
                             alt="image"
                         />
                     </div>
@@ -759,7 +759,7 @@ const Dashboard = () => {
                             <div className="pb-4">
                                 <img
                                     className="w-full custom-rounded"
-                                    src="/images/course-1.png"
+                                    src="/images/course-1.jpg"
                                     alt="image"
                                 />
                             </div>
@@ -780,7 +780,7 @@ const Dashboard = () => {
                             <div className="pb-4">
                                 <img
                                     className="w-full custom-rounded"
-                                    src="/images/course-2.png"
+                                    src="/images/course-2.jpg"
                                     alt="image"
                                 />
                             </div>
@@ -801,7 +801,7 @@ const Dashboard = () => {
                             <div className="pb-4">
                                 <img
                                     className="w-full custom-rounded"
-                                    src="/images/course-1.png"
+                                    src="/images/course-1.jpg"
                                     alt="image"
                                 />
                             </div>
@@ -822,7 +822,7 @@ const Dashboard = () => {
                             <div className="pb-4">
                                 <img
                                     className="w-full custom-rounded"
-                                    src="/images/course-2.png"
+                                    src="/images/course-2.jpg"
                                     alt="image"
                                 />
                             </div>
@@ -843,7 +843,7 @@ const Dashboard = () => {
                             <div className="pb-4">
                                 <img
                                     className="w-full custom-rounded"
-                                    src="/images/course-1.png"
+                                    src="/images/course-1.jpg"
                                     alt="image"
                                 />
                             </div>
@@ -864,7 +864,7 @@ const Dashboard = () => {
                             <div className="pb-4">
                                 <img
                                     className="w-full custom-rounded"
-                                    src="/images/course-2.png"
+                                    src="/images/course-2.jpg"
                                     alt="image"
                                 />
                             </div>
@@ -885,7 +885,7 @@ const Dashboard = () => {
                             <div className="pb-4">
                                 <img
                                     className="w-full custom-rounded"
-                                    src="/images/course-1.png"
+                                    src="/images/course-1.jpg"
                                     alt="image"
                                 />
                             </div>
@@ -906,7 +906,7 @@ const Dashboard = () => {
                             <div className="pb-4">
                                 <img
                                     className="w-full custom-rounded"
-                                    src="/images/course-2.png"
+                                    src="/images/course-2.jpg"
                                     alt="image"
                                 />
                             </div>

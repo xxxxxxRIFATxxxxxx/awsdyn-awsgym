@@ -3,7 +3,7 @@ import React from "react";
 const BannerSection = () => {
     return (
         <div className="banner-section relative">
-            <img src="/images/banner-img.svg" className="w-full" alt="image" />
+            <img src="/images/banner-img.jpg" className="w-full" alt="image" />
 
             <div className="absolute h-fit top-0 bottom-0 my-auto custom-container">
                 <h2 className="text-primary heading-2 pb-2 lg:pb-5 text-center lg:text-start">

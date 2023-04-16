@@ -23,7 +23,7 @@ const FeatureSection = () => {
                     <div className="feature-card relative overflow-hidden">
                         <img
                             className="w-full block h-auto"
-                            src="/images/feature-card-img-1.png"
+                            src="/images/feature-card-img-1.jpg"
                             alt="image"
                         />
 
@@ -31,7 +31,7 @@ const FeatureSection = () => {
                             <div className="bg-white w-full absolute left-0 right-0 py-5 overflow-hidden custom-rounded feature-card-text">
                                 <img
                                     className="w-14 h-12 pb-2 absolute top-2 lg:top-1 xl:top-2 2xl:top-7 left-2 lg:left-4 rotate-back"
-                                    src="/images/body-icon.svg"
+                                    src="/images/body-icon.jpg"
                                     alt="image"
                                 />
 
@@ -53,7 +53,7 @@ const FeatureSection = () => {
                     <div className="feature-card relative overflow-hidden">
                         <img
                             className="w-full block h-auto"
-                            src="/images/feature-card-img-2.png"
+                            src="/images/feature-card-img-2.jpg"
                             alt="image"
                         />
 
@@ -61,7 +61,7 @@ const FeatureSection = () => {
                             <div className="bg-white w-full absolute left-0 right-0 py-5 overflow-hidden custom-rounded feature-card-text">
                                 <img
                                     className="w-14 h-12 pb-2 absolute top-2 lg:top-1 xl:top-2 2xl:top-7 left-2 lg:left-4 rotate-back"
-                                    src="/images/body-icon.svg"
+                                    src="/images/body-icon.jpg"
                                     alt="image"
                                 />
 
@@ -83,7 +83,7 @@ const FeatureSection = () => {
                     <div className="feature-card relative overflow-hidden">
                         <img
                             className="w-full block h-auto"
-                            src="/images/feature-card-img-3.png"
+                            src="/images/feature-card-img-3.jpg"
                             alt="image"
                         />
 
@@ -91,7 +91,7 @@ const FeatureSection = () => {
                             <div className="bg-white w-full absolute left-0 right-0 py-5 overflow-hidden custom-rounded feature-card-text">
                                 <img
                                     className="w-14 h-12 pb-2 absolute top-2 lg:top-1 xl:top-2 2xl:top-7 left-2 lg:left-4 rotate-back"
-                                    src="/images/body-icon.svg"
+                                    src="/images/body-icon.jpg"
                                     alt="image"
                                 />
 
@@ -113,7 +113,7 @@ const FeatureSection = () => {
                     <div className="feature-card relative overflow-hidden">
                         <img
                             className="w-full block h-auto"
-                            src="/images/feature-card-img-4.png"
+                            src="/images/feature-card-img-4.jpg"
                             alt="image"
                         />
 
@@ -121,7 +121,7 @@ const FeatureSection = () => {
                             <div className="bg-white w-full absolute left-0 right-0 py-5 overflow-hidden custom-rounded feature-card-text">
                                 <img
                                     className="w-14 h-12 pb-2 absolute top-2 lg:top-1 xl:top-2 2xl:top-7 left-2 lg:left-4 rotate-back"
-                                    src="/images/body-icon.svg"
+                                    src="/images/body-icon.jpg"
                                     alt="image"
                                 />
 
@@ -143,7 +143,7 @@ const FeatureSection = () => {
                     <div className="feature-card relative overflow-hidden">
                         <img
                             className="w-full block h-auto"
-                            src="/images/feature-card-img-5.png"
+                            src="/images/feature-card-img-5.jpg"
                             alt="image"
                         />
 
@@ -151,7 +151,7 @@ const FeatureSection = () => {
                             <div className="bg-white w-full absolute left-0 right-0 py-5 overflow-hidden custom-rounded feature-card-text">
                                 <img
                                     className="w-14 h-12 pb-2 absolute top-2 lg:top-1 xl:top-2 2xl:top-7 left-2 lg:left-4 rotate-back"
-                                    src="/images/body-icon.svg"
+                                    src="/images/body-icon.jpg"
                                     alt="image"
                                 />
 
@@ -173,7 +173,7 @@ const FeatureSection = () => {
                     <div className="feature-card relative overflow-hidden">
                         <img
                             className="w-full block h-auto"
-                            src="/images/feature-card-img-6.png"
+                            src="/images/feature-card-img-6.jpg"
                             alt="image"
                         />
 
@@ -181,7 +181,7 @@ const FeatureSection = () => {
                             <div className="bg-white w-full absolute left-0 right-0 py-5 overflow-hidden custom-rounded feature-card-text">
                                 <img
                                     className="w-14 h-12 pb-2 absolute top-2 lg:top-1 xl:top-2 2xl:top-7 left-2 lg:left-4 rotate-back"
-                                    src="/images/body-icon.svg"
+                                    src="/images/body-icon.jpg"
                                     alt="image"
                                 />
 

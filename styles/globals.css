@@ -105,7 +105,7 @@ body {
 
 /* Hero Section */
 .hero-section {
-    background-image: url("/images/hero-section-bg.svg");
+    background-image: url("/images/hero-section-bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -113,7 +113,7 @@ body {
 
 /* Feature Section */
 .feature-section {
-    background-image: url("/images/feature-section-bg.svg");
+    background-image: url("/images/feature-section-bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -154,7 +154,7 @@ body {
 
 /* About Section */
 .about-section {
-    background-image: url("/images/feature-section-bg.svg");
+    background-image: url("/images/feature-section-bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -166,7 +166,7 @@ body {
 
 /* Product Section */
 .product-section {
-    background-image: url("/images/product-section-bg.png");
+    background-image: url("/images/product-section-bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -290,7 +290,7 @@ body {
 
 /* Faq Section */
 .faq-section {
-    background-image: url("/images/feature-section-bg.svg");
+    background-image: url("/images/feature-section-bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

@@ -8,7 +8,7 @@ const AboutSection = () => {
                     <div>
                         <img
                             className="w-full"
-                            src="/images/about-img.png"
+                            src="/images/about-img.jpg"
                             alt="image"
                         />
                     </div>

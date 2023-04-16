@@ -146,7 +146,7 @@ const Login = () => {
                         <button className="tertiary-btn border-gray-300 flex items-center justify-center hover:bg-secondary hover:border-secondary w-full mb-5">
                             <img
                                 className="w-7 pr-2"
-                                src="/images/facebook-logo.svg"
+                                src="/images/facebook-logo.svg.jpg"
                                 alt="image"
                             />
 

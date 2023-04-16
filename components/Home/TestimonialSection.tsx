@@ -28,7 +28,7 @@ const TestimonialSection = () => {
                             <div className="mr-5">
                                 <img
                                     className="w-full md:w-40 mx-auto pb-5 md:pb-0"
-                                    src="/images/testimonial-img-1.png"
+                                    src="/images/testimonial-img-1.jpg"
                                     alt="image"
                                 />
                             </div>
@@ -56,7 +56,7 @@ const TestimonialSection = () => {
                             <div className="mr-5">
                                 <img
                                     className="w-full md:w-40 mx-auto pb-5 md:pb-0"
-                                    src="/images/testimonial-img-2.png"
+                                    src="/images/testimonial-img-2.jpg"
                                     alt="image"
                                 />
                             </div>
@@ -84,7 +84,7 @@ const TestimonialSection = () => {
                             <div className="mr-5">
                                 <img
                                     className="w-full md:w-40 mx-auto pb-5 md:pb-0"
-                                    src="/images/testimonial-img-3.png"
+                                    src="/images/testimonial-img-3.jpg"
                                     alt="image"
                                 />
                             </div>
