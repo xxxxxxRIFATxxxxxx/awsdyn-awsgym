@@ -173,7 +173,7 @@ const Footer = () => {
             </div>
 
             <div className="bg-black normal-text text-white text-center p-5 md:p-10">
-                Crafted By The Yolo Studio. All Rights Reserved
+                Designed By <a className="underline" target="_blank" href="https://www.theyolostudio.com/">The Yolo Studio</a> And Developed By <a className="underline" target="_blank" href="https://awsdyn.com/">AWSDYN</a>. All Rights Reserved
             </div>
         </div>
     );
